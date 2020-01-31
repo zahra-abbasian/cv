@@ -69,8 +69,8 @@ p {
 .nav-link {
   font-size: 1.2rem;
   font-family: "Montserrat-Light";
-
 }
+
 
 /* Buttons */
 
@@ -118,6 +118,7 @@ p {
   padding: 4.5%;
 }
 
+
 .icon {
   color: #c7f0db;
   margin-bottom: 1rem;
@@ -161,20 +162,13 @@ p {
   padding: 100px;
 }
 
-.price-text {
-  font-size: 3rem;
-  line-height: 1.5;
-}
 
-.pricing-column {
+.portfolio-column {
   padding: 3% 2%;
 }
 
 
-
-
 /* Footer Section */
-
 
 .social-icon {
   margin: 20px 10px;
@@ -185,6 +179,7 @@ p {
 .social-icon:hover {
   color: #fff;
 }
+
 
 @media (max-width: 1028px) {
 
